@@ -28,4 +28,4 @@ jobs:
           output_location: "public" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
         env:
-          HUGO_VERSION: 0.152.2
+          HUGO_VERSION: 0.150.1
