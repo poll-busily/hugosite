@@ -1,7 +1,8 @@
 +++
-title = "New Zealand"
+title = "New Zealand: South Island Tramping"
 date = '2016-11-01'
 draft = false
+layout = "simple"
 +++
 
 {{< lead >}}

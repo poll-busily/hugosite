@@ -26,4 +26,3 @@ Working on writing is something I always mean to do more of so, on this site, I 
 Feel free to reach out if you'd like to connect or collaborate. I'm always open to interesting conversations and new opportunities.
 
 Thanks for visiting!
-

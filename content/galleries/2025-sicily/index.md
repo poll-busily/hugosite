@@ -2,6 +2,7 @@
 title = "Sicily"
 date = '2025-10-01'
 draft = false
+layout = "simple"
 +++
 
 {{< lead >}}
