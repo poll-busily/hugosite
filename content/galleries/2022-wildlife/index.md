@@ -27,5 +27,6 @@ the island of Sicily from the bustling coastal cities to its arid and agricultur
   <img src="DSC04943_web.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="DSC03606_web.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="DSC03922_web.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="DSC04953_web.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 
