@@ -19,6 +19,12 @@ All Loxia lenses share some family traits:
 [Zeiss Official Spec Sheet](https://www.zeiss.co.uk/photonics-and-optics/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html#loxia-2-35)
 
 ## What Do I Like About the Loxia 35?
+### Handling
+The Loxia series of lenses all feel great in the hand, and the 35mm sibling is no exception as it is one of the shortest in the lineup and feels as exceptionally well balanced on my A7R-IV as it does on the older, smaller A7r body. With its full metal casing, it's reassuringly solid without feeling overly heavy although, with that said, there are lighter lenses with quality plastic construction if a light lens is your number one concern.
+
+The throw of the focusing ring is long enough to be precise and short enough that it avoids being onerous. The real magic of manual focus on mirrorless cameras is the ability to zoom in to 100% crop at the touch of a button, something that is simply impossible with a traditional viewfinder. On my A7 I have this function mapped to the *AEL* key at the top-right of the camera so that I can quickly reach it with my thumb. The electronic contacts of the Loxia also allow the camera to trigger this functionality when the focus ring is turned which, in theory, is faster but I find it distracts too much from composition so I leave this off.
+
+### Contrast and Colour Rendering
 Stopped down for traditional landscape use, the 35mm Loxia is no slouch and delivers a high contrast image with great sharpness across the frame. The image below of a cluster of pine trees in the Scottish coastal village of Torridon was shot at f/11 using a tripod and the rendering is as crisp and colourful as any lens I own.
 {{< figure
     src="DSC02243_web.jpg"
@@ -50,3 +56,4 @@ By modern standards, the performance of this lens wide-open at f/2 is quite poor
     src="DSC01514_web.jpg"
     caption="Baits Bite Locks. Sony A7R-IV: f/8, 1/160th sec, ISO 320"
     >}}
+
