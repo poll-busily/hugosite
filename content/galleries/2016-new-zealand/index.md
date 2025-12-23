@@ -33,10 +33,15 @@ Of course, what they don't include on the tourist brochures is that this is, in 
 
 Strapped to the waist belt of my hiking rucksack is a bulky camera bag holding a Nikon D200 - the Nikon is a fine piece of kit, the bag is not and it awkwardly bashes my thigh with each step. I've already made an unenviably-long list of photographic errors on this trip and the bag isn't the worst of them either. Through not knowing what I'm doing, I've been shooting most of my landscape shots between f/18 and f/22 because "that must have the largest depth of field, right?". Well, I was half correct at least but some of the images from this trip turn out rather soft during editing.
 
-{{< gallery >}}
-  <img src="20161110-DSC_0280_web.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="20161113-DSC_0390_web.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-{{< /gallery >}}
+{{< figure
+    src="20161113-DSC_0390_web.jpg"
+    caption="A figure stands, dwarfed by the mountains behind, at Key Summit. Nikon D200: f/?, 1/?th sec, ISO ?"
+    >}}
+
+{{< figure
+    src="20161110-DSC_0280_web.jpg"
+    caption="Shelter at Harris Saddle, Routeburn Track. Nikon D200: f/?, 1/?th sec, ISO ?"
+    >}}
 
 
 

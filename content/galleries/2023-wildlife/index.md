@@ -5,22 +5,27 @@ draft = false
 layout = "simple"
 +++
 
-{{< lead >}}
-An exclusively-analogue slice of island life.
-{{< /lead >}}
-
 {{< keywordList >}}
 {{< keyword >}} Sony A7R-IV {{< /keyword >}}
 {{< keyword >}} Sony 200-600 G {{< /keyword >}}
 {{< /keywordList >}}
 
-Leaving my digital gear behind and going fully analogue for a return to the South of Italy, exploring
-the island of Sicily from the bustling coastal cities to its arid and agricultural interior.
+Just a handful of wildlife images from this year: a curious woodpecker and a buzzard checking out the garden pines, though not at the same time of course! And one dipper from a quick Peak District getaway.
 
-{{< gallery >}}
-  <img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="DSC05501_web.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="DSC05190_web.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="DSC05300_web.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-{{< /gallery >}}
+{{< figure
+    src="featured.jpg"
+    caption="Sony A7R-IV & 200-600G: f/?, 1/?th sec, ISO ?"
+    >}}
+{{< figure
+    src="DSC05501_web.jpg"
+    caption="Sony A7R-IV & 200-600G: f/?, 1/?th sec, ISO ?"
+    >}}
+{{< figure
+    src="DSC05190_web.jpg"
+    caption="Sony A7R-IV & 200-600G: f/?, 1/?th sec, ISO ?"
+    >}}
+{{< figure
+    src="DSC05300_web.jpg"
+    caption="Sony A7R-IV & 200-600G: f/?, 1/?th sec, ISO ?"
+    >}}
 
