@@ -5,17 +5,12 @@ draft = false
 layout = "simple"
 +++
 
-{{< lead >}}
-An exclusively-analogue slice of island life.
-{{< /lead >}}
-
 {{< keywordList >}}
 {{< keyword >}} Sony A7R-IV {{< /keyword >}}
 {{< keyword >}} Sony 200-600 G {{< /keyword >}}
 {{< /keywordList >}}
 
-Leaving my digital gear behind and going fully analogue for a return to the South of Italy, exploring
-the island of Sicily from the bustling coastal cities to its arid and agricultural interior.
+2022 was a more local year, with most of these photos being taken along the River Cam, or in one of the local reserves such as Fowlmere and Kingfisher's Bridge. The two Dippers are from a brief trip to the Peak District.
 
 {{< gallery >}}
   <img src="featured.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
