@@ -2,9 +2,8 @@
 date = 2024-06-08
 draft = false
 title = "Framed: The Zeiss Loxia 35mm F2"
-[taxonomies]
-categories = ["photography"]
-tags = ["photography"]
+tags = ["review","zeiss","lens"]
+series = ["framed"]
 +++
 
 The Zeiss Loxia 35mm f/2.0 is part of Zeiss' (now discontinued) line of manual focus lenses for Sony E-mount, launched in late 2014 and closely following the announcement of the E mount itself and the first generation of A7 cameras. Let's see how well this lens hold up a decade later when paired with a 61MP sensor that has nearly twice the pixel count of the cameras it launched alongside.

@@ -3,6 +3,8 @@ title = "New Zealand: South Island Tramping"
 date = '2016-11-01'
 draft = false
 layout = "simple"
+series = ["gallery"]
+tags = ["trip","new zealand","nikon"]
 +++
 
 {{< lead >}}

@@ -2,9 +2,7 @@
 date = 2017-11-01
 draft = false
 title = "Minolta X500/X700 Capacitor Repair"
-[taxonomies]
-categories = ["photography"]
-tags = ["photography", "repair"]
+tags = ["tutorial", "repair", "minolta", "x700", "x500", "x570", "analogue"]
 +++
 
 Here are some instructions for replacing the primary electrolytic capacitor found in several Minolta film SLR bodies.

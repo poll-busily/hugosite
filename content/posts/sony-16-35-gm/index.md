@@ -2,9 +2,8 @@
 date = 2024-06-08
 draft = false
 title = "Framed: The Sony 16-35 F2.8 GM"
-[taxonomies]
-categories = ["photography"]
-tags = ["photography"]
+tags = ["sony","review","lens","gm"]
+series = ["framed"]
 +++
 
 {{< lead >}}
