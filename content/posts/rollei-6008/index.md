@@ -4,10 +4,11 @@ draft = false
 title = "One Frame: Rollei 6008"
 [taxonomies]
 categories = ["photography"]
-tags = ["photography"]
+tags = ["analogue","film","rollei"]
 +++
 
 {{< figure
     src="featured.jpg"
     alt="Two narrowboats moored in a marina, with trees behind bearing yellow, autumn leaves."
+
     >}}
