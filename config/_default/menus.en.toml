@@ -13,16 +13,11 @@
 [[main]]
  name = "About"
  pageRef = "about"
- weight = 3
-
-[[main]]
- name = "Blog"
- pageRef = "posts"
  weight = 2
 
 [[main]]
- name = "Galleries"
- pageRef = "galleries"
+ name = "Posts & Galleries"
+ pageRef = "posts"
  weight = 1
 
 
