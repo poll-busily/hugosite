@@ -4,16 +4,21 @@ draft = false
 title = "Framed: The Zeiss Loxia 35mm F2"
 tags = ["review","zeiss","lens"]
 series = ["framed"]
+series_order = 2
 +++
+
+**Update:** The Loxia series of lenses has been discontinued, as of early 2025, but many examples are still available second hand and, for the right price, still represent excellent value.
+
+I think it's fair to say that if you're seriously looking at buying a manual focus prime lens in 2024 then you probably already know your intended use case. Perhaps you're a landscape photographer, interested in image quality corner to corner above almost all else, or maybe you need a fast yet light and compact prime lens for travel, and your finger is fast enough that you can get away without autofocus.
 
 The Zeiss Loxia 35mm f/2.0 is part of Zeiss' (now discontinued) line of manual focus lenses for Sony E-mount, launched in late 2014 and closely following the announcement of the E mount itself and the first generation of A7 cameras. Let's see how well this lens hold up a decade later when paired with a 61MP sensor that has nearly twice the pixel count of the cameras it launched alongside.
 
-## On Paper: Specifications
-All Loxia lenses share some family traits:
-- Manual focus, naturally
-- Reasonably fast wide open apertures (>= f/2.4)
-- Fully metal exterior construction
-- Electronic contacts for registration with the camera body
+## Specifications
+All members of the Loxia line share some common family traits:
+- They're manual focus, naturally
+- They have reasonably fast wide-open apertures, typically f/2.0 though the 85mm prime is f/2.4
+- They are all solidly built, with a fully metal exterior construction and the distinctive blue silicone sealing ring
+- They all have electronic contacts for communication with the camera body, setting them apart from adapted manual focus primes, of which many excellent examples are available used 
 
 [Zeiss Official Spec Sheet](https://www.zeiss.co.uk/photonics-and-optics/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html#loxia-2-35)
 
@@ -36,8 +41,8 @@ Speaking of rendering, this lens is great at pulling colour out of a grey and ov
     caption="The Secret Garden. Sony A7R-IV: f/4.5, 1/125th sec, ISO 320"
     >}}
 
-## What I Don't Love
-By modern standards, the performance of this lens wide-open at f/2 is quite poor. Centre sharpness is good but falls off somewhat towards the corners of the image.
+## What don't I like?
+By modern standards, the performance of this lens wide-open at f/2 is quite poor. Centre sharpness is good for all but falls off towards the corners of the image. Recall that when this lens launched, the first generation A7R at 36 megapixels was the highest resolution body that you could pair this lens with. Since then, we've 
 
 
 {{< figure
