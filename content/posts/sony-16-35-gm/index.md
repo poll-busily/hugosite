@@ -1,14 +1,11 @@
 +++
-date = 2024-06-08
+date = 2022-08-01
 draft = false
 title = "Framed: The Sony 16-35 F2.8 GM"
 tags = ["sony","review","lens","gm"]
 series = ["framed"]
+series_order = 1
 +++
-
-{{< lead >}}
-The Secret Garden
-{{< /lead >}}
 
 While it's undoubtedly true that this lens isn't as precisely corrected as its 21, 25 and 50mm stablemates - f2 and f2.2 especially show some noticeable chromatic abberations - the
 35mm Loxia is no slouch when stopped down. Just look at that colour rendering on this otherwise grey and overcast day, and the precise subject separation between the top of the gate and the background.
